@@ -1,0 +1,8 @@
+{
+  "name": "Scratch SB3 Library Manager",
+  "description": "High-performance desktop-style library manager for organizing, browsing, tagging, previewing, and launching large collections of Scratch .sb3 projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
